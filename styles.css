@@ -10,6 +10,7 @@ body {
 }
 .navbar-toggler {
     background-color: #85C1B7;
+    text-align:right;
 }
 .card {
     margin-left:10%;
@@ -21,8 +22,11 @@ h1 {
 h4 {
     text-align:center;
 }
+h3 {
+    text-align:center;
+}
 .drop-shadow:hover {
-    filter: drop-shadow(4px 4px 6px #E5C4BD);
+    filter: drop-shadow(6px 6px 10px #E5C4BD);
 }
 footer {
     text-align:center;
@@ -31,4 +35,17 @@ footer {
 iframe {
     text-align:center;
     background-color: #C0A287;
+}
+.img {
+    text-align:center;
+}
+div.iframe {
+    text-align:center;
+    background-color: #ABC798;
+}
+.list {
+    text-align:center;
+}
+.col {
+    text-align:center;
 }
