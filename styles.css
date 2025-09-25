@@ -1,0 +1,34 @@
+body {
+    background-color:#EDE7D7;
+    color:#3E3F3B;
+}
+.text {
+    text-align:center;
+}
+.container-fluid {
+    background-color: #A6C8E0;
+}
+.navbar-toggler {
+    background-color: #85C1B7;
+}
+.card {
+    margin-left:10%;
+    margin-bottom:5%;
+}
+h1 {
+    text-align:center;
+}
+h4 {
+    text-align:center;
+}
+.drop-shadow:hover {
+    filter: drop-shadow(4px 4px 6px #E5C4BD);
+}
+footer {
+    text-align:center;
+    background-color: #85C1B7;
+}
+iframe {
+    text-align:center;
+    background-color: #C0A287;
+}
